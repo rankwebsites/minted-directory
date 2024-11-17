@@ -1,5 +1,5 @@
 ---
-cover: /logo.png
+cover: /7829.webp
 featured: true
 tags:
   - SAAS
