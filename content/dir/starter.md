@@ -1,5 +1,5 @@
 ---
-cover: /7829.webp
+cover: public/7829.webp
 featured: true
 tags:
   - SAAS
