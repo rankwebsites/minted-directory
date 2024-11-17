@@ -74,9 +74,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
-      link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      text: "Add your business in directory.",
+      link: "https://google.com",
+      brandText: "House Cleaners",
     },
     navbar: {
       colorModeSelector: true,
