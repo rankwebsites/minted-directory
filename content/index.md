@@ -13,6 +13,12 @@ Get inspired by other directories:
 - 📗 [Nuxtjs Starters](https://nuxtstarters.com)
 - 🏠 [FortyTwoTools](https://fortytwotools.com)
 
+::blog-grid
+::
+
+::image-hero
+::
+
 ---
 
 Here is your starting listings grid 👇
