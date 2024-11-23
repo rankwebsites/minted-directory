@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "D",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
