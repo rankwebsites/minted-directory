@@ -10,7 +10,7 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
+    name: "D",
     description: "Example Description",
     url: "https://example.com",
     favicon: {
