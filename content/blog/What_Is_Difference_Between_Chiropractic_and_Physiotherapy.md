@@ -2,7 +2,7 @@
 
 Many people aren't aware that chiropractic and physiotherapy, while both aimed at improving physical health, have distinct approaches and philosophies. We often hear about one being better than the other, but understanding their unique focuses can clarify which might suit us best. As we explore these differences, we'll uncover how each therapy tailors its methods to address specific conditions and personal needs. So, what exactly sets them apart, and how can knowing this help us make informed choices about our health?
 
-## Overview of Chiropractic Care
+## Overview of Chiropractic Care1
 
 Chiropractic care focuses on diagnosing and treating musculoskeletal disorders, particularly those related to the spine. We've seen how effective this approach can be for alleviating pain and improving mobility. By emphasizing spinal manipulation and joint adjustments, chiropractic care aims to restore balance and function to the body.
 
