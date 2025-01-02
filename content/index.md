@@ -1,6 +1,6 @@
 ---
 layout: wide
-<meta name="google-site-verification" content="gc3fHaYm09vyU9dU0Mv9yOKuZHizhFDTFczdatpVQbw" />
+
 ---
 
 # This is my first directory testing project.
