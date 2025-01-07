@@ -12,10 +12,7 @@ Get inspired by other directories:
 
 Here is your starting listings grid 👇
 
-::image-hero{img-src="seasonal-tree-pruning.png"}
-::
-
-![tree working man](/mesa-az.jpeg){height="50" width="50"}
+![tree working man](/mesa-az.jpeg){alignment="centre" height="350" width="350"}
 
 ::directory-grid
 ::
