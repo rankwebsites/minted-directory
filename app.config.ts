@@ -75,7 +75,7 @@ export default defineAppConfig({
     banner: {
       show: true,
       text: "Add your business in directory.",
-      link: "",
+      link: "https://www.youtube.com",
       brandText: "House Cleaners",
     },
     navbar: {
