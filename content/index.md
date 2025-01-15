@@ -1,6 +1,5 @@
 ---
 layout: wide
-
 ---
 
 # This is my first directory testing project.
@@ -12,6 +11,8 @@ See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to
 Get inspired by other directories:
 
 Here is your starting listings grid 👇
+
+![tree working man](/mesa-az.jpeg){alignment="centre" height="350" width="350"}
 
 ::directory-grid
 ::
